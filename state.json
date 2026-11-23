@@ -1,8 +1,8 @@
 {
   "repo": "ggml-org/llama.cpp",
   "branch": "master",
-  "last_checked_commit_sha": "7778de0c3fe4c4b05857d0abaad6195e470b6515",
-  "last_checked_commit_short": "7778de0",
-  "last_checked_date": "2026-11-23",
-  "last_report_file": "2026-11-23.md"
+  "last_checked_commit_sha": "c212d25ad34ff1fdf775793cda07e009560cf66b",
+  "last_checked_commit_short": "c212d25",
+  "last_checked_date": "2026-11-24",
+  "last_report_file": "2026-11-24.md"
 }
